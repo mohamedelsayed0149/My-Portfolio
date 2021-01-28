@@ -10,7 +10,7 @@ const Banner = () => {
   const [state] = React.useState({
     title: "I am  Mohamed El Sayed",
     text:
-      "i,m Mohamed, professional Frontend web developer with long time experience in this field​",
+      "i am Mohamed, professional Frontend web developer with long time experience in this field​",
   });
   return (
     <header className="header">

@@ -137,14 +137,21 @@ body {
   border-radius: 50px;
   padding: 13px 40px;
 }
+.btn-outline:hover {
+  background: #fff;
+  border: 2px solid transparent;
+  color: #4070F4;
+  font-weight: 600;
+}
 .btn-smart {
-  background:red;
+  background:#4070F4;
   padding: 13px 40px;
   border-radius: 50px;
 }
 .play {
   font-size: 25px !important;
   padding-top: 10px;
+  color: #dfdfdf;
 }
 .banner__img {
   padding: 0 30px;
